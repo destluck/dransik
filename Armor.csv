@@ -1,0 +1,118 @@
+Name,Type,Prot,Magic,Health,Level,Cost
+Lit Torch,SHIELD,3,0,100,0,0
+Torch,SHIELD,3,0,100,0,20
+Leather Cap,HELM,4,0,100,0,38
+Helm,HELM,10,0,100,0,490
+Golden Helm,HELM,12,0,100,0,1016
+Helm of Agility,HELM,16,1,500,0,6856
+Helm of Strength,HELM,16,1,500,0,6856
+Holy Helm,HELM,20,1,500,0,9413
+Black Helm,HELM,20,1,500,0,9412
+Rune Helm,HELM,22,1,500,0,0
+Chain Coif,HELM,8,0,100,0,301
+Battle Helm,HELM,11,0,100,0,662
+Golden Battle Helm,HELM,13,0,100,0,1292
+Fancy Battle Helm,HELM,11,0,100,0,718
+Fancy Gold Battle Helm,HELM,13,0,100,0,1400
+Magic Coif,HELM,14,1,500,0,3767
+Tunic,BODY,5,0,100,0,29
+Leather Armor,BODY,10,0,100,0,233
+Padded Armor,BODY,18,0,100,0,1454
+Chainmail,BODY,20,0,100,0,1860
+Platemail,BODY,25,0,100,0,3028
+Golden Platemail,BODY,30,0,100,0,6279
+Magic Plate vs Poison,BODY,40,1,500,0,32149
+Magic Plate vs Disease,BODY,40,1,500,0,32745
+Magic Plate vs Fire,BODY,40,1,500,0,33340
+Holy Platemail,BODY,50,1,500,0,58141
+Black Platemail,BODY,50,1,500,0,58140
+Rune Armor,BODY,55,1,500,0,0
+Decorative Armor,BODY,17,0,100,0,627
+Gladiator Armor,BODY,15,0,100,0,942
+Magic Padded Leather,BODY,33,1,500,0,25946
+Magic Chainmail,BODY,35,1,500,0,23266
+Shield,SHIELD,15,0,100,0,1125
+Golden Shield,SHIELD,21,0,100,0,4322
+Fire Shield,SHIELD,32,1,500,0,24167
+Magic Shield vs Cold,SHIELD,33,1,500,0,27464
+Magic Shield vs Acid,SHIELD,33,1,500,0,22887
+Magic Shield vs Lightning,SHIELD,32,1,500,0,22938
+Holy Shield,SHIELD,40,1,500,0,40001
+Black Shield,SHIELD,40,1,500,0,40000
+Rune Shield,SHIELD,44,1,500,0,0
+Buckler,SHIELD,3,0,100,0,27
+Small Shield,SHIELD,6,0,100,0,108
+Small Golden Shield,SHIELD,14,0,100,0,1921
+Orcish Shield,SHIELD,10,0,100,0,500
+Heater Shield,SHIELD,20,0,100,0,2000
+Blue Shield,SHIELD,15,0,100,0,1125
+Red Shield,SHIELD,15,0,100,0,1125
+Green Shield,SHIELD,15,0,100,0,1125
+Yellow Shield,SHIELD,15,0,100,0,1125
+Grey Shield,SHIELD,15,0,100,0,1125
+Orange Shield,SHIELD,15,0,100,0,1125
+Elven Shield,SHIELD,15,0,100,0,1250
+Golden Elven Shield,SHIELD,21,0,100,0,4802
+Armor of Great Health,BODY,40,1,500,0,26815
+Round Wooden Shield,SHIELD,8,0,100,0,169
+Mystic Robe,BODY,20,1,500,24,10442
+Leather Leggings,LEGS,8,0,100,0,151
+Padded Leather Leggings,LEGS,14,0,100,0,942
+Chainmail Leggings,LEGS,16,0,100,0,1205
+Platemail Leggings,LEGS,20,0,100,0,1961
+Golden Plate Leggings,LEGS,24,0,100,0,4066
+Magic Leather Leggings,LEGS,20,1,500,0,11765
+Magic Padded Leggings,LEGS,26,1,500,0,16801
+Magic Platemail Leggings,LEGS,32,1,500,0,15421
+Holy Leggings,LEGS,40,1,500,0,37648
+Black Leggings,LEGS,40,1,500,0,37647
+Rune Leggings,LEGS,44,1,500,0,0
+Frost Leggings,LEGS,32,1,500,0,20047
+Frost Plate,BODY,40,1,500,0,30959
+Frost Helm,HELM,16,1,500,0,5012
+Frost Shield,SHIELD,32,1,500,0,26215
+Etherial Shield,SHIELD,0,1,500,0,0
+Rugged Plate,BODY,28,0,100,0,3800
+Rugged Shield,SHIELD,18,0,100,0,1944
+Rugged Helm,HELM,11,0,100,0,615
+Wooden Shield,SHIELD,9,0,100,0,243
+Leather Gloves,ARMS,6,0,100,0,83
+Padded Leather Gloves,ARMS,11,0,100,0,519
+Chainmail Gloves,ARMS,12,0,100,0,665
+Platemail Gauntlets,ARMS,15,0,100,0,1082
+Golden Gauntlets,ARMS,18,0,100,0,2243
+Magic Leather Gloves,ARMS,15,1,500,0,6491
+Magic Padded Gloves,ARMS,20,1,500,0,9269
+Magic Gauntlets,ARMS,24,1,500,0,8507
+Holy Gauntlets,ARMS,30,1,500,0,20770
+Black Gauntlets,ARMS,30,1,500,0,20769
+Rune Gauntlets,ARMS,33,1,500,0,0
+Frost Gauntlets,ARMS,24,1,500,0,11060
+Cloth Cap,HELM,2,0,100,0,4
+Magic Cap,HELM,4,1,500,0,151
+Magic Leather Cap,HELM,10,1,500,0,2942
+Magic Helm,HELM,16,1,500,0,3855
+Magic Tunic,BODY,20,1,500,0,7442
+Magic Platemail,BODY,40,1,500,0,23814
+Magic Shield,SHIELD,24,1,500,0,9216
+Pants,LEGS,4,0,100,0,19
+Rugged Plate Leggings,LEGS,22,0,100,0,2461
+Magic Pants,LEGS,16,1,500,0,4819
+Magic Leather Armor,BODY,25,1,500,0,18169
+Magic Chain Leggings,LEGS,28,1,500,0,15065
+Cloth Gloves,ARMS,3,0,100,0,10
+Magic Cloth Gloves,ARMS,12,1,500,0,2659
+Magic Chain Gloves,ARMS,21,1,500,0,8312
+Shield of Arna,SHIELD,32,1,500,0,18384
+Chefs Cap,HELM,2,1,10,0,2002
+Miners Helm,HELM,10,1,100,0,1549
+Wolfskin,BODY,20,1,100,0,0
+Dogskin,BODY,20,1,100,0,0
+Ratskin,BODY,20,1,100,0,0
+Catskin,BODY,20,1,100,0,0
+Wargskin,BODY,20,1,100,0,0
+Rabbitskin,BODY,25,1,100,0,0
+Deerskin,BODY,20,1,100,0,0
+Steerskin,BODY,20,1,100,0,0
+Batskin,BODY,20,1,100,0,0
+Snakeskin,BODY,20,1,100,0,0

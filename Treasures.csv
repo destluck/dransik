@@ -1,0 +1,937 @@
+miscellaneous items
+,Bag,1000,1,1
+,Cotton,1000,1,1
+,Cut Barley,1000,1,1
+,Empty Bucket,1000,1,1
+,Kindling,1000,1,1
+,Milk Bottle Empty,1000,1,1
+,Pole,1000,1,1
+,Rose,1000,1,1
+,String,1000,1,1
+,Torch,1000,1,1
+
+
+poor produce
+,Chicken Egg,3300,1,3
+,Grapes,3300,1,6
+,Pecans,3400,1,6
+
+
+average produce
+,Lemon,1500,1,5
+,Lime,1500,1,5
+,Orange,2500,1,5
+,Tomato,4500,1,5
+
+
+rich produce
+,Cherries,3500,1,12
+,Apple,5500,1,10
+,Banana,1000,1,8
+
+
+poor cooked food
+,Cooked Bat Wing,1400,1,4
+,Plain Bread,1500,1,2
+,Cooked Snake Meat,1400,1,3
+,Cooked Spider Leg,1400,1,8
+,Cooked Striped Thod,1400,1,3
+,Cooked Rabbit Meat,1500,1,2
+,Cooked Scorpion Tail,1400,1,1
+
+
+average cooked food
+,Baked Biscut Dough,800,1,6
+,Baked Roll,800,1,6
+,Cooked Bluefin,800,1,4
+,Cooked Chicken Leg,2200,1,6
+,Cooked Crescent,800,1,6
+,Cooked Greely,1000,1,4
+,Nut Bread,800,1,3
+,Cooked Purker,1000,1,4
+,Raisin Bread,800,1,3
+,Cooked Red Fleming,1000,1,4
+
+
+rich cooked food
+,Banana Bread,700,1,4
+,Cooked Casucs,1200,1,4
+,Cherry Bread,700,1,4
+,Cinnamon Bread,700,1,4
+,Cinnamon Rolls,700,1,8
+,Cinnamon Twists,700,1,8
+,Doughnut Bites,200,1,12
+,Twists,700,1,8
+,Cooked Venison,2200,1,3
+,Cooked Beef Steak,2200,1,3
+
+
+light melee weapon
+,Small Dagger,2000,1,1
+,Hatchet,1800,1,1
+,Dagger,1600,1,1
+,Great Dagger,1400,1,1
+,Rapier,1100,1,1
+,Pine Staff,900,1,1
+,Short Stiletto,700,1,1
+,Stiletto,500,1,1
+
+
+medium melee weapon
+,Club,1400,1,1
+,Small Mace,1300,1,1
+,Staff,1200,1,1
+,Axe,1100,1,1
+,Sword,1000,1,1
+,Battle Axe,900,1,1
+,Mace,800,1,1
+,Golden Sword,700,1,1
+,Spear,600,1,1
+,Morning Star,500,1,1
+,Sabre,300,1,1
+,Golden Sabre,200,1,1
+
+
+heavy melee weapon
+,War Axe,2800,1,1
+,Long Sword,2400,1,1
+,Golden Long Sword,1900,1,1
+,Trident,1400,1,1
+,Broad Sword,1000,1,1
+,Skull Crusher,500,1,1
+
+
+light melee weapon to +1
+,Small Dagger +1,400,1,1
+,Hatchet +1,400,1,1
+,Dagger +1,400,1,1
+,Great Dagger +1,400,1,1
+,Rapier +1,400,1,1
+,Pine Staff +1,400,1,1
+,Short Stiletto +1,400,1,1
+,Stiletto +1,400,1,1
+,Small Dagger,1700,1,1
+,Hatchet,1700,1,1
+,Dagger,1700,1,1
+,Great Dagger,1700,1,1
+
+
+light melee weapon to +2
+,Small Dagger +2,400,1,1
+,Hatchet +2,400,1,1
+,Dagger +2,400,1,1
+,Great Dagger +2,400,1,1
+,Rapier +2,400,1,1
+,Pine Staff +2,400,1,1
+,Short Stiletto +2,400,1,1
+,Stiletto +2,400,1,1
+,Small Dagger,900,1,1
+,Hatchet,900,1,1
+,Dagger,900,1,1
+,Great Dagger,900,1,1
+,Rapier,800,1,1
+,Pine Staff,800,1,1
+,Short Stiletto,800,1,1
+,Stiletto,800,1,1
+
+
+light melee weapon to +3
+,Small Dagger +3,400,1,1
+,Hatchet +3,400,1,1
+,Dagger +3,400,1,1
+,Great Dagger +3,400,1,1
+,Rapier +3,400,1,1
+,Pine Staff +3,400,1,1
+,Short Stiletto +3,400,1,1
+,Stiletto +3,400,1,1
+,Small Dagger +1,900,1,1
+,Hatchet +1,900,1,1
+,Dagger +1,900,1,1
+,Great Dagger +1,900,1,1
+,Rapier +1,800,1,1
+,Pine Staff +1,800,1,1
+,Short Stiletto +1,800,1,1
+,Stiletto +1,800,1,1
+
+
+light melee weapon to +4
+,Small Dagger +4,400,1,1
+,Hatchet +4,400,1,1
+,Dagger +4,400,1,1
+,Great Dagger +4,400,1,1
+,Rapier +4,400,1,1
+,Pine Staff +4,400,1,1
+,Short Stiletto +4,400,1,1
+,Stiletto +4,400,1,1
+,Small Dagger +2,900,1,1
+,Hatchet +2,900,1,1
+,Dagger +2,900,1,1
+,Great Dagger +2,900,1,1
+,Rapier +2,800,1,1
+,Pine Staff +2,800,1,1
+,Short Stiletto +2,800,1,1
+,Stiletto +2,800,1,1
+
+
+light melee weapon to +5
+,Small Dagger +5,400,1,1
+,Hatchet +5,400,1,1
+,Dagger +5,400,1,1
+,Great Dagger +5,400,1,1
+,Rapier +5,400,1,1
+,Pine Staff +5,400,1,1
+,Short Stiletto +5,400,1,1
+,Stiletto +5,400,1,1
+,Small Dagger +3,900,1,1
+,Hatchet +3,900,1,1
+,Dagger +3,900,1,1
+,Great Dagger +3,900,1,1
+,Rapier +3,800,1,1
+,Pine Staff +3,800,1,1
+,Short Stiletto +3,800,1,1
+,Stiletto +3,800,1,1
+
+
+medium melee weapon to +1
+,Club +1,400,1,1
+,Small Mace +1,400,1,1
+,Staff +1,400,1,1
+,Axe +1,400,1,1
+,Sword +1,300,1,1
+,Battle Axe +1,300,1,1
+,Mace +1,300,1,1
+,Spear +1,300,1,1
+,Morning Star +1,300,1,1
+,Sabre +1,300,1,1
+,Club,1100,1,1
+,Small Mace,1100,1,1
+,Staff,1100,1,1
+,Axe,1100,1,1
+,Sword,1100,1,1
+,Battle Axe,1100,1,1
+
+
+medium melee weapon to +2
+,Club +2,400,1,1
+,Small Mace +2,400,1,1
+,Staff +2,400,1,1
+,Axe +2,400,1,1
+,Sword +2,300,1,1
+,Battle Axe +2,300,1,1
+,Mace +2,300,1,1
+,Spear +2,300,1,1
+,Morning Star +2,300,1,1
+,Sabre +2,300,1,1
+,Mace,1100,1,1
+,Golden Sword,1100,1,1
+,Spear,1100,1,1
+,Morning Star,1100,1,1
+,Sabre,1100,1,1
+,Golden Sabre,1100,1,1
+
+
+medium melee weapon to +3
+,Club +3,400,1,1
+,Small Mace +3,400,1,1
+,Staff +3,400,1,1
+,Axe +3,400,1,1
+,Sword +3,300,1,1
+,Battle Axe +3,300,1,1
+,Mace +3,300,1,1
+,Spear +3,300,1,1
+,Morning Star +3,300,1,1
+,Sabre +3,300,1,1
+,Sword +1,1100,1,1
+,Battle Axe +1,1100,1,1
+,Mace +1,1100,1,1
+,Spear +1,1100,1,1
+,Morning Star +1,1100,1,1
+,Sabre +1,1100,1,1
+
+
+medium melee weapon to +4
+,Club +4,400,1,1
+,Small Mace +4,400,1,1
+,Staff +4,400,1,1
+,Axe +4,400,1,1
+,Sword +4,300,1,1
+,Battle Axe +4,300,1,1
+,Mace +4,300,1,1
+,Spear +4,300,1,1
+,Morning Star +4,300,1,1
+,Sabre +4,300,1,1
+,Sword +2,1100,1,1
+,Battle Axe +2,1100,1,1
+,Mace +2,1100,1,1
+,Spear +2,1100,1,1
+,Morning Star +2,1100,1,1
+,Sabre +2,1100,1,1
+
+
+medium melee weapon to +5
+,Club +5,400,1,1
+,Small Mace +5,400,1,1
+,Staff +5,400,1,1
+,Axe +5,400,1,1
+,Sword +5,300,1,1
+,Battle Axe +5,300,1,1
+,Mace +5,300,1,1
+,Spear +5,300,1,1
+,Morning Star +5,300,1,1
+,Sabre +5,300,1,1
+,Sword +3,1100,1,1
+,Battle Axe +3,1100,1,1
+,Mace +3,1100,1,1
+,Spear +3,1100,1,1
+,Morning Star +3,1100,1,1
+,Sabre +3,1100,1,1
+
+
+heavy melee weapon to +1
+,War Axe +1,900,1,1
+,Long Sword +1,900,1,1
+,Trident +1,800,1,1
+,Broad Sword +1,800,1,1
+,War Axe,1700,1,1
+,Long Sword,1700,1,1
+,Trident,1600,1,1
+,Broad Sword,1600,1,1
+
+
+heavy melee weapon to +2
+,War Axe +2,400,1,1
+,Long Sword +2,400,1,1
+,Trident +2,400,1,1
+,Broad Sword +2,400,1,1
+,War Axe +1,900,1,1
+,Long Sword +1,900,1,1
+,Trident +1,800,1,1
+,Broad Sword +1,800,1,1
+,War Axe,1300,1,1
+,Long Sword,1300,1,1
+,Trident,1200,1,1
+,Broad Sword,1200,1,1
+
+
+heavy melee weapon to +3
+,War Axe +3,300,1,1
+,Long Sword +3,300,1,1
+,Trident +3,200,1,1
+,Broad Sword +3,200,1,1
+,War Axe +2,500,1,1
+,Long Sword +2,500,1,1
+,Trident +2,500,1,1
+,Broad Sword +2,500,1,1
+,War Axe +1,800,1,1
+,Long Sword +1,800,1,1
+,Trident +1,700,1,1
+,Broad Sword +1,700,1,1
+,War Axe,1000,1,1
+,Long Sword,1000,1,1
+,Trident,1000,1,1
+,Broad Sword,1000,1,1
+
+
+heavy melee weapon to +4
+,War Axe +4,300,1,1
+,Long Sword +4,300,1,1
+,Trident +4,200,1,1
+,Broad Sword +4,200,1,1
+,War Axe +3,500,1,1
+,Long Sword +3,500,1,1
+,Trident +3,500,1,1
+,Broad Sword +3,500,1,1
+,War Axe +2,800,1,1
+,Long Sword +2,800,1,1
+,Trident +2,700,1,1
+,Broad Sword +2,700,1,1
+,Wooden Bow +1,1000,1,1
+,Long Sword +1,1000,1,1
+,Trident +1,1000,1,1
+,Broad Sword +1,1000,1,1
+
+
+heavy melee weapon to +5
+,War Axe +5,300,1,1
+,Long Sword +5,300,1,1
+,Trident +5,200,1,1
+,Broad Sword +5,200,1,1
+,War Axe +4,500,1,1
+,Long Sword +4,500,1,1
+,Trident +4,500,1,1
+,Broad Sword +4,500,1,1
+,War Axe +3,800,1,1
+,Long Sword +3,800,1,1
+,Trident +3,700,1,1
+,Broad Sword +3,700,1,1
+,War Axe +2,1000,1,1
+,Long Sword +2,1000,1,1
+,Trident +2,1000,1,1
+,Broad Sword +2,1000,1,1
+
+
+light helm
+,Cloth Cap,2700,1,1
+,Leather Cap,4600,1,1
+,Chain Coif,2700,1,1
+
+
+medium helm
+,Chain Coif,2000,1,1
+,Helm,4000,1,1
+,Battle Helm,3000,1,1
+,Fancy Battle Helm,1000,1,1
+
+
+heavy helm
+,Battle Helm,1000,1,1
+,Rugged Helm,3000,1,1
+,Golden Helm,3000,1,1
+,Golden Battle Helm,2000,1,1
+,Fancy Gold Battle Helm,1000,1,1
+
+
+light helm with magic
+,Magic Cap,2700,1,1
+,Magic Leather Cap,4600,1,1
+,Magic Coif,2700,1,1
+
+
+medium helm with magic
+,Magic Coif,2700,1,1
+,Magic Helm,4600,1,1
+,Frost Helm,2700,1,1
+
+
+heavy helm with magic
+,Frost Helm,3400,1,1
+,Helm of Strength,2700,1,1
+,Helm of Agility,2000,1,1
+,Holy Helm,1300,1,1
+,Black Helm,600,1,1
+
+
+light armor
+,Tunic,2000,1,1
+,Leather Armor,4500,1,1
+,Padded Armor,3500,1,1
+
+
+medium armor
+,Decorative Armor,1000,1,1
+,Gladiator Armor,4000,1,1
+,Chainmail,5000,1,1
+
+
+heavy armor
+,Decorative Armor,1000,1,1
+,Platemail,5500,1,1
+,Golden Platemail,3500,1,1
+
+
+light armor with magic
+,Magic Tunic,2000,1,1
+,Mystic Robe,2000,1,1
+,Magic Leather Armor,4000,1,1
+,Magic Padded Leather,2000,1,1
+
+
+medium armor with magic
+,Magic Padded Leather,3000,1,1
+,Magic Chainmail,6000,1,1
+,Magic Platemail,1000,1,1
+
+
+heavy armor with magic
+,Magic Platemail,2300,1,1
+,Armor of Great Health,2000,1,1
+,Frost Plate,1700,1,1
+,Magic Plate vs Poison,1400,1,1
+,Magic Plate vs Disease,1100,1,1
+,Magic Plate vs Fire,800,1,1
+,Holy Platemail,500,1,1
+,Black Platemail,200,1,1
+
+
+light leggings
+,Pants,2000,1,1
+,Leather Leggings,4500,1,1
+,Padded Leather Leggings,3500,1,1
+
+
+medium leggings
+,Padded Leather Leggings,2000,1,1
+,Chainmail Leggings,6000,1,1
+,Platemail Leggings,2000,1,1
+
+
+heavy leggings
+,Chainmail Leggings,2000,1,1
+,Platemail Leggings,4500,1,1
+,Golden Plate Leggings,3500,1,1
+
+
+light leggings with magic
+,Magic Pants,2000,1,1
+,Magic Leather Leggings,4500,1,1
+,Magic Padded Leggings,3500,1,1
+
+
+medium leggings with magic
+,Magic Padded Leggings,2000,1,1
+,Magic Chain Leggings,6000,1,1
+,Magic Platemail Leggings,2000,1,1
+
+
+heavy leggings with magic
+,Magic Platemail Leggings,4000,1,1
+,Frost Leggings,3000,1,1
+,Holy Leggings,2000,1,1
+,Black Leggings,1000,1,1
+
+
+light arms
+,Cloth Gloves,2000,1,1
+,Leather Gloves,4500,1,1
+,Padded Leather Gloves,3500,1,1
+
+
+medium arms
+,Padded Leather Gloves,2000,1,1
+,Chainmail Gloves,6000,1,1
+,Platemail Gauntlets,2000,1,1
+
+
+heavy arms
+,Chainmail Gloves,2000,1,1
+,Platemail Gauntlets,4500,1,1
+,Golden Gauntlets,3500,1,1
+
+
+light arms with magic
+,Magic Cloth Gloves,2000,1,1
+,Magic Leather Gloves,4500,1,1
+,Magic Padded Gloves,3500,1,1
+
+
+medium arms with magic
+,Magic Padded Gloves,2000,1,1
+,Magic Chain Gloves,6000,1,1
+,Magic Gauntlets,2000,1,1
+
+
+heavy arms with magic
+,Magic Gauntlets,3300,1,1
+,Frost Gauntlets,2200,1,1
+,Holy Gauntlets,1200,1,1
+,Black Gauntlets,3300,1,1
+
+
+light shield
+,Buckler,3000,1,1
+,Small Shield,2500,1,1
+,Round Wooden Shield,2000,1,1
+,Wooden Shield,1500,1,1
+,Small Golden Shield,1000,1,1
+
+
+medium shield
+,Shield,2000,1,1
+,Blue Shield,1200,1,1
+,Green Shield,1200,1,1
+,Grey Shield,2000,1,1
+,Orange Shield,1200,1,1
+,Red Shield,1200,1,1
+,Yellow Shield,1200,1,1
+
+
+heavy shield
+,Rugged Shield,4500,1,1
+,Heater Shield,3500,1,1
+,Golden Shield,2000,1,1
+
+
+light shield with magic
+,Magic Shield,5000,1,1
+
+
+medium shield with magic
+,Magic Shield,10000,1,1
+
+
+heavy shield with magic
+,Magic Shield vs Acid,2100,1,1
+,Magic Shield vs Lightning,1800,1,1
+,Fire Shield,1400,1,1
+,Frost Shield,1100,1,1
+,Holy Shield,800,1,1
+,Black Shield,400,1,1
+,Shield of Arna,2400,1,1
+
+
+trinkets
+,Amulet,2500,1,1
+,Gem,2500,1,1
+,Minor Healing Potion,2500,1,1
+,Ring,2500,1,1
+
+
+miscellaneous magic
+,Divining Rod,1100,1,1
+,Farming Almanac,1100,1,1
+,Felling Axe,500,1,1
+,Fishing Lure,500,1,1
+,Horn of Plenty,500,1,1
+,Motherlode Stone,1100,1,1
+,Miners Helm,1100,1,1
+,Scythe of Uthien,500,1,1
+,Silver Spoon,500,1,1
+,Unlit Lamp of Isos,500,1,1
+,Wereskin Knife,500,1,1
+,Chefs Cap,500,1,1
+,Magic Leather Tools,500,1,1
+,Anvil of Veldan,1100,1,1
+
+
+rune
+,Rune of Body,1900,1,1
+,Rune of Distance,1200,1,1
+,Rune of Harm,1200,1,1
+,Rune of Mind,1900,1,1
+,Rune of Nature,1900,1,1
+,Rune of Soul,1900,1,1
+
+
+potions
+,Cure Disease Potion,1000,1,1
+,Cure Poison Potion,1700,1,1
+,Greater Healing Potion,1400,1,1
+,Healing Potion,2100,1,1
+,Minor Healing Potion,2500,1,1
+,Poison Potion,500,1,1
+,Potion of Tanning,800,1,1
+
+
+light missile weapon
+,Sling,4000,1,1
+,Short Bow,3000,1,1
+,Wooden Bow,2000,1,1
+,Light Crossbow,1000,1,1
+
+
+medium missile weapon
+,Fancy Bow,4300,1,1
+,Small Crossbow,3400,1,1
+,Oak Bow,2300,1,1
+
+
+heavy missile weapon
+,Steel Bow,3400,1,1
+,Crossbow,2700,1,1
+,Golden Bow,2000,1,1
+,Large Crossbow,1300,1,1
+,Heavy Crossbow,600,1,1
+
+
+ammunition
+,Pebbles,1700,1,24
+,Arrows,5000,1,18
+,Bolts,3300,1,12
+
+
+light missile weapon to +1
+,Sling +1,1100,1,1
+,Wooden Bow +1,1100,1,1
+,Light Crossbow +1,1100,1,1
+,Sling,2200,1,1
+,Wooden Bow,2300,1,1
+,Light Crossbow,2200,1,1
+
+
+light missile weapon to +2
+,Sling +2,600,1,1
+,Wooden Bow +2,600,1,1
+,Light Crossbow +2,500,1,1
+,Sling +1,1100,1,1
+,Wooden Bow +1,1100,1,1
+,Light Crossbow +1,1100,1,1
+,Sling,1700,1,1
+,Wooden Bow,1700,1,1
+,Light Crossbow,1600,1,1
+
+
+light missile weapon to +3
+,Sling +3,400,1,1
+,Wooden Bow +3,300,1,1
+,Light Crossbow +3,300,1,1
+,Sling +2,700,1,1
+,Wooden Bow +2,700,1,1
+,Light Crossbow +2,600,1,1
+,Sling +1,1000,1,1
+,Wooden Bow +1,1000,1,1
+,Light Crossbow +1,1000,1,1
+,Sling,1400,1,1
+,Wooden Bow,1300,1,1
+,Light Crossbow,1300,1,1
+
+
+light missile weapon to +4
+,Sling +4,400,1,1
+,Wooden Bow +4,300,1,1
+,Light Crossbow +4,300,1,1
+,Sling +3,700,1,1
+,Wooden Bow +3,700,1,1
+,Light Crossbow +3,600,1,1
+,Sling +2,1000,1,1
+,Wooden Bow +2,1000,1,1
+,Light Crossbow +2,1000,1,1
+,Sling +1,1400,1,1
+,Wooden Bow +1,1300,1,1
+,Light Crossbow +1,1300,1,1
+
+
+light missile weapon to +5
+,Sling +5,400,1,1
+,Wooden Bow +5,300,1,1
+,Light Crossbow +5,300,1,1
+,Sling +4,700,1,1
+,Wooden Bow +4,700,1,1
+,Light Crossbow +4,600,1,1
+,Sling +3,1000,1,1
+,Wooden Bow +3,1000,1,1
+,Light Crossbow +3,1000,1,1
+,Sling +2,1400,1,1
+,Wooden Bow +2,1300,1,1
+,Light Crossbow +2,1300,1,1
+
+
+medium missile weapon to +1
+,Small Crossbow +1,1700,1,1
+,Oak Bow +1,1600,1,1
+,Small Crossbow,3400,1,1
+,Oak Bow,3300,1,1
+
+
+medium missile weapon to +2
+,Small Crossbow +2,800,1,1
+,Oak Bow +2,800,1,1
+,Small Crossbow +1,1700,1,1
+,Oak Bow +1,1700,1,1
+,Small Crossbow,2500,1,1
+,Oak Bow,2500,1,1
+
+
+medium missile weapon to +3
+,Small Crossbow +3,500,1,1
+,Oak Bow +3,500,1,1
+,Small Crossbow +2,1000,1,1
+,Oak Bow +2,1000,1,1
+,Small Crossbow +1,1500,1,1
+,Oak Bow +1,1500,1,1
+,Small Crossbow,2000,1,1
+,Oak Bow,2000,1,1
+
+
+medium missile weapon to +4
+,Small Crossbow +4,500,1,1
+,Oak Bow +4,500,1,1
+,Small Crossbow +3,1000,1,1
+,Oak Bow +3,1000,1,1
+,Small Crossbow +2,1500,1,1
+,Oak Bow +2,1500,1,1
+,Small Crossbow +1,2000,1,1
+,Oak Bow +1,2000,1,1
+
+
+medium missile weapon to +5
+,Small Crossbow +5,500,1,1
+,Oak Bow +5,500,1,1
+,Small Crossbow +4,1000,1,1
+,Oak Bow +4,1000,1,1
+,Small Crossbow +3,1500,1,1
+,Oak Bow +3,1500,1,1
+,Small Crossbow +2,2000,1,1
+,Oak Bow +2,2000,1,1
+
+
+heavy missile weapon to +1
+,Steel Bow +1,900,1,1
+,Crossbow +1,800,1,1
+,Large Crossbow +1,800,1,1
+,Heavy Crossbow +1,800,1,1
+,Steel Bow,1400,1,1
+,Crossbow,1400,1,1
+,Large Crossbow,1300,1,1
+,Heavy Crossbow,1300,1,1
+,Golden Bow,1300,1,1
+
+
+heavy missile weapon to +2
+,Steel Bow +2,300,1,1
+,Crossbow +2,300,1,1
+,Large Crossbow +2,300,1,1
+,Heavy Crossbow +2,300,1,1
+,Steel Bow +1,800,1,1
+,Crossbow +1,800,1,1
+,Large Crossbow +1,700,1,1
+,Heavy Crossbow +1,700,1,1
+,Steel Bow,1200,1,1
+,Crossbow,1200,1,1
+,Large Crossbow,1200,1,1
+,Heavy Crossbow,1100,1,1
+,Golden Bow,1100,1,1
+
+
+heavy missile weapon to +3
+,Steel Bow +3,300,1,1
+,Crossbow +3,300,1,1
+,Large Crossbow +3,200,1,1
+,Heavy Crossbow +3,200,1,1
+,Steel Bow +2,500,1,1
+,Crossbow +2,500,1,1
+,Large Crossbow +2,500,1,1
+,Heavy Crossbow +2,500,1,1
+,Steel Bow +1,800,1,1
+,Crossbow +1,800,1,1
+,Large Crossbow +1,700,1,1
+,Heavy Crossbow +1,700,1,1
+,Crossbow,1000,1,1
+,Large Crossbow,1000,1,1
+,Heavy Crossbow,1000,1,1
+,Golden Bow,1000,1,1
+
+
+heavy missile weapon to +4
+,Steel Bow +4,300,1,1
+,Crossbow +4,300,1,1
+,Large Crossbow +4,200,1,1
+,Heavy Crossbow +4,200,1,1
+,Steel Bow +3,500,1,1
+,Crossbow +3,500,1,1
+,Large Crossbow +3,500,1,1
+,Heavy Crossbow +3,500,1,1
+,Steel Bow +2,800,1,1
+,Crossbow +2,800,1,1
+,Large Crossbow +2,700,1,1
+,Heavy Crossbow +2,700,1,1
+,Steel Bow +1,1000,1,1
+,Crossbow +1,1000,1,1
+,Large Crossbow +1,1000,1,1
+,Heavy Crossbow +1,1000,1,1
+
+
+heavy missile weapon to +5
+,Steel Bow +5,300,1,1
+,Crossbow +5,300,1,1
+,Large Crossbow +5,200,1,1
+,Heavy Crossbow +5,200,1,1
+,Steel Bow +4,500,1,1
+,Crossbow +4,500,1,1
+,Large Crossbow +4,500,1,1
+,Heavy Crossbow +4,500,1,1
+,Steel Bow +3,800,1,1
+,Crossbow +3,800,1,1
+,Large Crossbow +3,700,1,1
+,Heavy Crossbow +3,700,1,1
+,Steel Bow +2,1000,1,1
+,Crossbow +2,1000,1,1
+,Large Crossbow +2,1000,1,1
+,Heavy Crossbow +2,1000,1,1
+
+
+ammunition with magic
+,Acid Bolts,2000,1,12
+,Elfin Arrows,2000,1,12
+,Flame Arrows,2000,1,12
+,Frost Bolts,2000,1,12
+,Shock Bolts,2000,1,12
+
+
+agriculture tools
+,Shovel,3400,1,1
+,Farm Scythe,3300,1,1
+,Foraging Stick,3300,1,1
+
+
+blacksmithing tools
+,Blacksmith Hammer,2000,1,1
+,Goldsmith Tools,2000,1,1
+,Iron Ingot,2000,1,6
+,Iron Ore,2000,1,30
+,Pick Axe,2000,1,1
+
+
+cooking tools
+,Cake Knife,1200,1,1
+,Empty Bucket,1200,1,1
+,Milk Bottle,1200,1,1
+,Mixing Bowl,1400,1,1
+,Mixing Spoon,1400,1,1
+,Sugar Bag,1200,1,6
+,Flour Bag,1200,1,6
+,Cinnamon Bag,1200,1,3
+
+
+fishing tools
+,Fishing Pole,4000,1,1
+,Pole,1000,1,1
+,String,3000,1,1
+,Empty Bucket,2000,1,1
+
+
+healing tools
+,Bandage,2700,1,12
+,Bloodroot,2200,1,10
+,Minor Healing Potion,1800,1,8
+,Healing Potion,1400,1,6
+,Cure Poison Potion,1000,1,4
+,Greater Healing Potion,600,1,2
+,Cure Disease Potion,300,1,1
+
+
+leathercrafting tools
+,Skinning Knife,3000,1,1
+,Skinned Hide,1500,1,6
+,Leather,1500,1,3
+,Leatherworking Tools,4000,1,1
+
+
+wood working tools
+,Lumberjack Axe,2500,1,1
+,Saw,2000,1,1
+,Carpenters Tools,3000,1,1
+,Log,1000,1,3
+,Plank,1500,1,6
+
+
+wands
+,Apprentice Wand,3200,1,1
+,Mage Sceptre,1400,1,1
+,Iron Wand,800,1,1
+,Mage Blade,2000,1,1
+,Mage Staff,2600,1,1
+
+
+fish
+,Cooked Bluefin,1700,1,1
+,Cooked Casucs,1700,1,1
+,Cooked Greely,1600,1,1
+,Cooked Purker,1700,1,1
+,Cooked Red Fleming,1700,1,1
+,Cooked Striped Thod,1600,1,1
+
+
+uncooked food
+,Bat Wing,2100,1,1
+,Beef Steak,800,1,1
+,Rabbit Meat,1100,1,1
+,Scorpion Tail,1400,1,1
+,Snake Meat,1700,1,1
+,Spider Leg,2400,1,1
+,Venison,500,1,1
+
+
+500 gold
+,Gold,10000,500,500
+
+

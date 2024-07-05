@@ -1,0 +1,242 @@
+Name,Class,Min Dmg,Max Dmg,To Hit,Magic,Speed,Level,Cost
+Club,MACE,1,9,0,0,6,0,128
+Dagger,DAGGER,1,6,0,0,4,0,125
+Mace,MACE,6,16,0,0,7,0,372
+Axe,AXE,2,14,0,0,6,0,201
+Sword,SWORD,2,13,0,0,5,0,231
+Golden Sword,SWORD,3,18,0,0,5,0,411
+Battle Axe,AXE,4,21,0,0,7,0,350
+Flaming Sword,SWORD,30,65,35,1,4,108,10805
+Lightning Sword,SWORD,35,70,40,1,4,136,13609
+Darksword,SWORD,200,400,50,1,5,5454,545414
+Sword +1,SWORD,8,19,10,1,4,10,1032
+Sword of Talazar,SWORD,100,200,50,1,5,1377,137714
+Poison Blade,SWORD,15,38,30,1,4,34,3398
+Vorpal Axe,AXE,20,90,40,1,3,497,49658
+Ice Sword,SWORD,40,90,45,1,4,214,21375
+Sword +2,SWORD,11,22,20,1,4,16,1621
+Sword +3,SWORD,14,25,25,1,4,23,2297
+Sword +4,SWORD,17,28,30,1,4,31,3121
+Sword +5,SWORD,20,31,35,1,4,41,4101
+Rune Sword,SWORD,40,120,50,1,4,830,83029
+Staff,POLEARM,2,10,0,0,5,0,188
+Pine Staff,POLEARM,3,14,0,0,5,0,364
+Tyran Sword,SWORD,8,22,0,0,5,0,778
+Kyrthan Staff,POLEARM,5,25,0,0,6,0,756
+Stiletto,DAGGER,5,22,0,0,4,0,938
+Wooden Sword,SWORD,1,8,0,0,5,0,131
+Trident,POLEARM,8,30,0,0,7,0,924
+Spear,POLEARM,5,21,0,0,6,0,584
+Great Dagger,DAGGER,2,8,0,0,4,0,192
+Long Sword,SWORD,6,25,0,0,6,0,688
+Sabre,SWORD,6,25,0,0,5,0,889
+Wooden Bow,Invalid,2,14,40,0,9,0,287
+Fancy Bow,Invalid,3,17,40,0,8,0,441
+Unstrung Bow,Invalid,0,0,0,0,999999999,0,267
+Sling,Invalid,2,6,40,0,10,0,134
+Golden Long Sword,SWORD,5,28,0,0,6,0,720
+Golden Sabre,SWORD,8,28,0,0,5,0,1170
+Rapier,SWORD,5,10,0,0,5,0,249
+Tooth Staff,POLEARM,10,50,0,1,7,17,1668
+War Axe,AXE,8,31,0,0,8,0,649
+Kobold Spear,POLEARM,3,18,0,0,6,0,436
+Small Mace,MACE,2,10,0,0,6,0,170
+Lich Staff,POLEARM,35,70,0,1,6,81,8101
+Morning Star,MACE,10,20,0,0,7,0,648
+Skull Crusher,MACE,20,45,0,0,8,20,1927
+Small Dagger,DAGGER,1,3,0,0,4,0,68
+Broad Sword,SWORD,11,32,0,0,6,0,1260
+Short Stiletto,DAGGER,3,12,0,0,4,0,368
+Sabre +1,SWORD,12,31,10,1,4,26,2646
+Dagger of Dread,DAGGER,15,60,0,0,4,127,12676
+Crossbow,Invalid,7,29,45,0,11,0,968
+Large Crossbow,Invalid,8,46,50,0,12,0,1752
+Oak Bow,Invalid,4,20,40,0,7,0,651
+Golden Bow,Invalid,6,26,40,0,5,0,1441
+Steel Bow,Invalid,5,23,40,0,6,0,942
+Steel Water Bow,Invalid,20,90,55,1,20,39,3865
+Gold Water Bow,Invalid,20,90,55,1,18,48,4799
+Steel Earth Bow,Invalid,20,100,60,1,20,48,4778
+Gold Earth Bow,Invalid,20,100,60,1,18,59,5934
+Steel Air Bow,Invalid,40,120,65,1,20,87,8740
+Gold Air Bow,Invalid,40,120,65,1,18,109,10854
+Steel Fire Bow,Invalid,90,140,80,1,20,200,20002
+Gold Fire Bow,Invalid,90,140,80,1,18,248,24839
+Practice Sword,SWORD,1,8,0,0,5,0,0
+Super duper bow,Invalid,100,550,90,1,1,0,10660226
+Staff of Impartiality ,POLEARM,0,0,0,0,0,0,0
+Energy Trident,POLEARM,35,70,35,1,5,105,10498
+Poison Trident,POLEARM,15,40,20,1,6,20,1979
+Great Fire Crossbow,Invalid,90,140,85,1,21,187,18743
+Great Air Crossbow,Invalid,40,120,70,1,21,82,8224
+Great Earth Crossbow,Invalid,20,100,65,1,21,45,4503
+Great Water Crossbow,Invalid,20,90,60,1,21,36,3649
+Diseased Spear,POLEARM,25,65,5,1,7,108,10812
+Fire Axe,AXE,60,100,45,1,4,241,24079
+Air Axe,AXE,50,90,30,1,5,133,13292
+Earth Axe,AXE,40,80,25,1,6,79,7880
+Water Axe,AXE,30,70,20,1,7,45,4547
+Bone Staff,POLEARM,1,1,0,1,1,1,114
+GM Deathbringer,SWORD,6000,7000,100,1,1,28179668,-1477000479
+Ritual Blade,Invalid,0,0,0,0,0,0,555
+Wizard Staff,Invalid,0,0,0,0,0,0,555
+Apprentice Wand,Invalid,1,5,0,0,5,0,180
+Mage Staff,Invalid,1,7,0,0,5,0,242
+Iron Wand,Invalid,8,18,0,0,7,0,924
+Mage Sceptre,Invalid,3,12,0,0,6,0,491
+Mage Blade,Invalid,2,6,0,0,3,0,448
+Hatchet,AXE,2,6,0,0,5,0,86
+Battle Axe +1,AXE,10,27,10,1,6,10,1048
+Staff of Power,Invalid,0,0,0,0,0,0,555
+Short Bow,Invalid,2,10,40,0,10,0,173
+Light Crossbow,Invalid,5,13,40,0,9,0,408
+Small Crossbow,Invalid,6,18,45,0,10,0,547
+Heavy Crossbow,Invalid,9,51,55,0,13,0,1848
+Hatchet +1,AXE,8,12,10,1,4,6,607
+Hatchet +2,AXE,11,15,20,1,4,11,1052
+Hatchet +3,AXE,14,18,25,1,4,16,1596
+Hatchet +4,AXE,17,21,30,1,4,23,2277
+Hatchet +5,AXE,20,24,35,1,4,31,3107
+Axe +1,AXE,8,20,10,1,5,8,814
+Axe +2,AXE,11,23,20,1,5,13,1264
+Axe +3,AXE,14,26,25,1,5,18,1778
+Axe +4,AXE,17,29,30,1,5,24,2402
+Axe +5,AXE,20,32,35,1,5,31,3142
+Battle Axe +2,AXE,13,30,20,1,6,15,1512
+Battle Axe +3,AXE,16,33,25,1,6,20,2013
+Battle Axe +4,AXE,19,36,30,1,6,26,2604
+Battle Axe +5,AXE,22,39,35,1,6,33,3292
+War Axe +1,AXE,14,37,10,1,7,15,1528
+War Axe +2,AXE,17,40,20,1,7,21,2058
+War Axe +3,AXE,20,43,25,1,7,26,2593
+War Axe +4,AXE,23,46,30,1,7,32,3210
+War Axe +5,AXE,26,49,35,1,7,39,3912
+Small Dagger +1,DAGGER,7,9,10,1,3,9,946
+Small Dagger +2,DAGGER,10,12,20,1,3,18,1786
+Small Dagger +3,DAGGER,13,15,25,1,3,29,2861
+Small Dagger +4,DAGGER,16,18,30,1,3,42,4238
+Small Dagger +5,DAGGER,19,21,35,1,3,59,5944
+Dagger +1,DAGGER,7,12,10,1,3,11,1110
+Dagger +2,DAGGER,10,15,20,1,3,20,1961
+Dagger +3,DAGGER,13,18,25,1,3,30,3011
+Dagger +4,DAGGER,16,21,30,1,3,43,4334
+Dagger +5,DAGGER,19,24,35,1,3,60,5952
+Great Dagger +1,DAGGER,8,14,10,1,3,13,1274
+Great Dagger +2,DAGGER,11,17,20,1,3,21,2136
+Great Dagger +3,DAGGER,14,20,25,1,3,32,3170
+Great Dagger +4,DAGGER,17,23,30,1,3,45,4452
+Great Dagger +5,DAGGER,20,26,35,1,3,60,6003
+Short Stiletto +1,DAGGER,9,18,10,1,3,18,1834
+Short Stiletto +2,DAGGER,12,21,20,1,3,29,2881
+Short Stiletto +3,DAGGER,15,24,25,1,3,41,4084
+Short Stiletto +4,DAGGER,18,27,30,1,3,55,5547
+Short Stiletto +5,DAGGER,21,30,35,1,3,73,7291
+Stiletto +1,DAGGER,11,28,10,1,3,32,3235
+Stiletto +2,DAGGER,14,31,20,1,3,46,4609
+Stiletto +3,DAGGER,17,34,25,1,3,61,6076
+Stiletto +4,DAGGER,20,37,30,1,3,78,7801
+Stiletto +5,DAGGER,23,40,35,1,3,98,9802
+Club +1,MACE,7,15,10,1,5,8,764
+Club +2,MACE,10,18,20,1,5,13,1282
+Club +3,MACE,13,21,25,1,5,19,1902
+Club +4,MACE,16,24,30,1,5,27,2671
+Club +5,MACE,19,27,35,1,5,36,3602
+Small Mace +1,MACE,8,16,10,1,5,9,892
+Small Mace +2,MACE,11,19,20,1,5,15,1453
+Small Mace +3,MACE,14,22,25,1,5,21,2113
+Small Mace +4,MACE,17,25,30,1,5,29,2926
+Small Mace +5,MACE,20,28,35,1,5,39,3902
+Mace +1,MACE,12,22,10,1,6,13,1256
+Mace +2,MACE,15,25,20,1,6,18,1850
+Mace +3,MACE,18,28,25,1,6,25,2502
+Mace +4,MACE,21,31,30,1,6,33,3278
+Mace +5,MACE,24,34,35,1,6,42,4187
+Morning Star +1,MACE,13,23,10,1,6,14,1395
+Morning Star +2,MACE,16,26,20,1,6,20,2026
+Morning Star +3,MACE,19,29,25,1,6,27,2710
+Morning Star +4,MACE,22,32,30,1,6,35,3520
+Morning Star +5,MACE,25,35,35,1,6,45,4466
+Staff +1,POLEARM,8,16,10,1,4,10,1003
+Staff +2,POLEARM,11,19,20,1,4,16,1634
+Staff +3,POLEARM,14,22,25,1,4,24,2377
+Staff +4,POLEARM,17,25,30,1,4,33,3291
+Staff +5,POLEARM,20,28,35,1,4,44,4390
+Pine Staff +1,POLEARM,9,20,10,1,5,13,1252
+Pine Staff +2,POLEARM,12,23,20,1,5,19,1926
+Pine Staff +3,POLEARM,15,26,25,1,5,27,2689
+Pine Staff +4,POLEARM,18,29,30,1,5,36,3612
+Pine Staff +5,POLEARM,21,32,35,1,5,47,4705
+Spear +1,POLEARM,11,27,10,1,6,15,1542
+Spear +2,POLEARM,14,30,20,1,6,22,2210
+Spear +3,POLEARM,17,33,25,1,6,29,2927
+Spear +4,POLEARM,20,36,30,1,6,38,3772
+Spear +5,POLEARM,23,39,35,1,6,48,4754
+Trident +1,POLEARM,14,36,10,1,6,23,2341
+Trident +2,POLEARM,17,39,20,1,6,32,3165
+Trident +3,POLEARM,20,42,25,1,6,40,4002
+Trident +4,POLEARM,23,45,30,1,6,50,4965
+Trident +5,POLEARM,26,48,35,1,6,61,6064
+Rapier +1,SWORD,11,16,10,1,4,11,1126
+Rapier +2,SWORD,14,19,20,1,4,18,1768
+Rapier +3,SWORD,17,22,25,1,4,25,2506
+Rapier +4,SWORD,20,31,30,1,4,43,4308
+Rapier +5,SWORD,23,34,35,1,4,55,5523
+Long Sword +1,SWORD,12,31,10,1,5,19,1940
+Long Sword +2,SWORD,15,34,20,1,5,27,2705
+Long Sword +3,SWORD,18,37,25,1,5,35,3505
+Long Sword +4,SWORD,21,40,30,1,5,44,4438
+Long Sword +5,SWORD,24,43,35,1,5,55,5513
+Sabre +2,SWORD,15,34,20,1,4,37,3688
+Sabre +3,SWORD,18,37,25,1,4,48,4779
+Sabre +4,SWORD,21,40,30,1,4,61,6052
+Sabre +5,SWORD,24,43,35,1,4,75,7518
+Broad Sword +1,SWORD,17,38,10,1,5,31,3084
+Broad Sword +2,SWORD,20,41,20,1,5,41,4097
+Broad Sword +3,SWORD,23,44,25,1,5,51,5105
+Broad Sword +4,SWORD,26,47,30,1,5,63,6258
+Broad Sword +5,SWORD,29,50,35,1,5,76,7565
+Wooden Bow +1,Invalid,8,20,50,1,8,11,1102
+Wooden Bow +2,Invalid,11,23,60,1,8,17,1712
+Wooden Bow +3,Invalid,14,26,65,1,8,24,2408
+Wooden Bow +4,Invalid,17,29,70,1,8,33,3252
+Wooden Bow +5,Invalid,20,32,75,1,8,43,4255
+Oak Bow +1,Invalid,10,26,50,1,6,20,1992
+Oak Bow +2,Invalid,13,29,60,1,6,29,2893
+Oak Bow +3,Invalid,16,32,65,1,6,39,3871
+Oak Bow +4,Invalid,19,35,70,1,6,50,5029
+Oak Bow +5,Invalid,22,38,75,1,6,64,6379
+Steel Bow +1,Invalid,11,29,50,1,5,27,2712
+Steel Bow +2,Invalid,14,32,60,1,5,38,3842
+Steel Bow +3,Invalid,17,35,65,1,5,50,5042
+Steel Bow +4,Invalid,20,38,70,1,5,65,6450
+Steel Bow +5,Invalid,23,41,75,1,5,81,8081
+Light Crossbow +1,Invalid,11,19,50,1,8,15,1498
+Light Crossbow +2,Invalid,14,22,60,1,8,23,2282
+Light Crossbow +3,Invalid,17,25,65,1,8,32,3165
+Light Crossbow +4,Invalid,20,28,70,1,8,42,4227
+Light Crossbow +5,Invalid,23,31,75,1,8,55,5483
+Small Crossbow +1,Invalid,12,24,55,1,9,16,1620
+Small Crossbow +2,Invalid,15,27,65,1,9,23,2344
+Small Crossbow +3,Invalid,18,30,70,1,9,31,3131
+Small Crossbow +4,Invalid,21,33,75,1,9,41,4062
+Small Crossbow +5,Invalid,24,36,80,1,9,51,5146
+Crossbow +1,Invalid,10,32,55,1,10,18,1792
+Crossbow +2,Invalid,13,35,65,1,10,25,2502
+Crossbow +3,Invalid,16,38,70,1,10,32,3250
+Crossbow +4,Invalid,19,41,75,1,10,41,4122
+Crossbow +5,Invalid,22,44,80,1,10,51,5128
+Large Crossbow +1,Invalid,14,52,60,1,11,35,3463
+Large Crossbow +2,Invalid,17,55,70,1,11,44,4432
+Large Crossbow +3,Invalid,20,58,75,1,11,54,5369
+Large Crossbow +4,Invalid,23,61,80,1,11,64,6423
+Large Crossbow +5,Invalid,26,64,85,1,11,76,7601
+Heavy Crossbow +1,Invalid,15,57,65,1,12,34,3447
+Heavy Crossbow +2,Invalid,18,60,75,1,12,43,4342
+Heavy Crossbow +3,Invalid,21,63,80,1,12,52,5195
+Heavy Crossbow +4,Invalid,24,66,85,1,12,61,6148
+Heavy Crossbow +5,Invalid,27,69,90,1,12,72,7207
+Sling +1,Invalid,8,12,50,1,9,9,924
+Sling +2,Invalid,11,15,60,1,9,16,1603
+Sling +3,Invalid,14,18,65,1,9,24,2431
+Sling +4,Invalid,17,21,70,1,9,35,3469
+Sling +5,Invalid,20,24,75,1,9,47,4734
